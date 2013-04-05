@@ -1,6 +1,6 @@
 {
   "name": "flatiron-couch-backbone",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "A flatiron plugin that allows you to use Backbone server side, and uses Couch for it's data store.",
   "main": "index.js",
   "scripts": {

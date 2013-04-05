@@ -1,6 +1,12 @@
 flatiron-couch-backbone
 =======================
 
+# DEPRECATED
+This plugin is now *wheelhouse-couch*
+
+https://npmjs.org/package/wheelhouse-couch
+https://github.com/joeybaker/wheelhouse-couch
+
 A flatiron plugin that allows you to use Backbone server side, and uses Couch for it's data store. This is largely a rewrite of [backbone-couch](https://github.com/developmentseed/backbone-couch) to get it to play nicely with [flatiron](https://github.com/flatiron/flatiron) and use the excellent [cradle](https://github.com/cloudhead/cradle) CouchDB library.
 
 ## Usage
